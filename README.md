@@ -67,7 +67,7 @@ We provide a comprehensive Postman collection for testing API endpoints:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Omar-da/Darajat
+git clone https://github.com/AliAsaad715/Darajat
 cd Darajat
 ```
 
@@ -175,6 +175,6 @@ We welcome contributions to Darajat Educational Platform! Please feel free to su
 ## 📞 Contact
 
 For questions or support, please contact us:
-omaraldalati3@gmail.com
+ali715asaad@gmail.com
 
 ---
